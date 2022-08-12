@@ -4,7 +4,6 @@ Frameworks used - React JS, Next JS
 Database management - Sanity.io
 Payment gateway used - Stripe
 
-
 - Responsive Home page with products listing
 - Responsive Product page
 - Cart Page with checkout button
