@@ -1,6 +1,6 @@
 # kreate-task
 
-Framworks used - React JS, Next JS
+Frameworks used - React JS, Next JS
 Database management - Sanity.io
 Payment gateway used - Stripe
 
